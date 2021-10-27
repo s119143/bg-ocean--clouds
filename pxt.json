@@ -1,0 +1,45 @@
+{
+    "name": "bg (ocean + clouds)",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.6.24",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#ffffff",
+        "#BCD8DF",
+        "#CEE1F2",
+        "#8FB8EC",
+        "#698EBF",
+        "#6583BF",
+        "#FOC68D",
+        "#F29F8D",
+        "#BG4B4B",
+        "#593434",
+        "#736D68",
+        "#FAEA87",
+        "#87532E",
+        "#649C5C",
+        "#58B548"
+    ]
+}
